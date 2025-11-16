@@ -1,6 +1,7 @@
 # Hi there, I'm Avinah Bhattarai! 👋
 
-![Banner Image](![pic](https://github.com/user-attachments/assets/17942e9a-287a-4592-a8fb-36a6f1280535)
+![mypic](https://github.com/user-attachments/assets/6cd55126-f3c6-48a9-a5b8-f8e1ae48c847)
+
 )
 
 ## About Me 🚀
@@ -9,9 +10,9 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 
 - 🌱 Currently learning: **React, CSS**
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌍 Languages: **English, Nepali**
+- 📫 How to reach me: **github43.avi@gmail.com**
+- ⚡ Fun fact: **Sleep Well1**
 
 ## My Skills 🧠
 
@@ -23,7 +24,7 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## Featured Projects 💻 i will just post just wait it .
 
 ### [Project 1 Title](project_1_link)
 
