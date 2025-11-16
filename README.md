@@ -2,17 +2,17 @@
 
 ![mypic](https://github.com/user-attachments/assets/6cd55126-f3c6-48a9-a5b8-f8e1ae48c847)
 
-)
+
 
 ## About Me 🚀
 
 I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **React, CSS**
-- 🔭 Working on: **[current projects or side-projects]**
+- 🔭 Working on: **will be updated soon!**
 - 🌍 Languages: **English, Nepali**
 - 📫 How to reach me: **github43.avi@gmail.com**
-- ⚡ Fun fact: **Sleep Well1**
+- ⚡ Fun fact: **Sleep Well!**
 
 ## My Skills 🧠
 
@@ -20,9 +20,8 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 
 ## Featured Projects 💻 i will just post just wait it .
 
