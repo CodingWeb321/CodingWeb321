@@ -1,12 +1,13 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Avinah Bhattarai! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](![pic](https://github.com/user-attachments/assets/17942e9a-287a-4592-a8fb-36a6f1280535)
+)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🌱 Currently learning: **React, CSS**
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **[your email address or other contact information]**
