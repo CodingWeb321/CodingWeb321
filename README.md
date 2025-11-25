@@ -27,8 +27,7 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 
 ### [Grocery Buds](project_1_link)
 
-
-[!Grocery Buds] (<img width="457" height="266" alt="Grocery Buds" src="https://github.com/user-attachments/assets/764f3c7c-7956-4ef4-909c-d5eb81bc88b6" />)
+![Grocery Buds] (<img width="457" height="266" alt="Grocery Buds" src="https://github.com/user-attachments/assets/764f3c7c-7956-4ef4-909c-d5eb81bc88b6" />)
 
 **Grocery Buds** is a **shopping list** built with **html, css , js, localstorage**. This project demonstrates my ability to **Each grocery item has a unique ID and is stored in localStorage for persistence.**. You can check out the netlify [here] (https://grocerybudsfromavinash.netlify.app/).
 
@@ -37,7 +36,7 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 
 ![Project 2 Screenshot] <img width="1157" height="633" alt="Todoapp" src="https://github.com/user-attachments/assets/c3c84558-fcea-4ad2-a675-9f21a5d33b58" />
 
-**[Todo web app]** is a **Employed JavaScript for DOM manipulation and user interactions.** built with **Html,css**. This project showcases my skills in **[Developed a dynamic task manager allowing users to add, mark complete, and delete tasks]**. You can check out the netlif [here](https://todolistfromavinash.netlify.app/).
+**[Todo web app]** is a **Employed JavaScript for DOM manipulation and user interactions.** built with **Html,css**. This project showcases my skills in **Developed a dynamic task manager allowing users to add, mark complete, and delete tasks**. You can check out the netlif [here](https://todolistfromavinash.netlify.app/).
 
 ## Get in Touch 📬
 
