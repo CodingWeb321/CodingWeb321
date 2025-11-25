@@ -23,24 +23,26 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 
 
 
-## Featured Projects 💻 i will just post just wait it .
+## Featured Projects 💻 2 projects done! 
 
-### [Project 1 Title](project_1_link)
+### [Grocery Buds](project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+[!Grocery Buds] (<img width="457" height="266" alt="Grocery Buds" src="https://github.com/user-attachments/assets/764f3c7c-7956-4ef4-909c-d5eb81bc88b6" />)
 
-### [Project 2 Title](project_2_link)
+**Grocery Buds** is a **shopping list** built with **html, css , js, localstorage**. This project demonstrates my ability to **Each grocery item has a unique ID and is stored in localStorage for persistence.**. You can check out the netlify [(https://grocerybudsfromavinash.netlify.app/].
 
-![Project 2 Screenshot](project_2_screenshot_url)
+### [Todo web app](project_2_link)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+![Project 2 Screenshot](<img width="1157" height="633" alt="Todoapp" src="https://github.com/user-attachments/assets/f28d5fed-74d6-40f1-bcca-64e62b9bdd89" />)
+
+
+**[Todo web app]** is a **Employed JavaScript for DOM manipulation and user interactions.** built with **Html,css**. This project showcases my skills in **[Developed a dynamic task manager allowing users to add, mark complete, and delete tasks]**. You can check out the netlif [here]([(https://todolistfromavinash.netlify.app/](https://todolistfromavinash.netlify.app/))).
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[Personal Website / Blog]**(coming soon)
+- **[LinkedIn]**(www.linkedin.com/in/avinash-bhattarai-7b4213230)
+
 
 
