@@ -34,9 +34,8 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 
 ### [Todo web app](project_2_link)
 
-![Project 2 Screenshot](<img width="1157" height="633" alt="Todoapp" src="https://github.com/user-attachments/assets/6bf32801-166e-404a-9c39-685575ed4288" />
-)
 
+![Project 2 Screenshot] <img width="1157" height="633" alt="Todoapp" src="https://github.com/user-attachments/assets/c3c84558-fcea-4ad2-a675-9f21a5d33b58" />
 
 **[Todo web app]** is a **Employed JavaScript for DOM manipulation and user interactions.** built with **Html,css**. This project showcases my skills in **[Developed a dynamic task manager allowing users to add, mark complete, and delete tasks]**. You can check out the netlif [here](https://todolistfromavinash.netlify.app/).
 
