@@ -29,7 +29,7 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 
 ![Grocery Buds] (<img width="457" height="266" alt="Grocery Buds" src="https://github.com/user-attachments/assets/764f3c7c-7956-4ef4-909c-d5eb81bc88b6" />)
 
-**Grocery Buds** is a **shopping list** built with **html, css , js, localstorage**. This project demonstrates my ability to **Each grocery item has a unique ID and is stored in localStorage for persistence.**. You can check out the netlify [here] (https://grocerybudsfromavinash.netlify.app/).
+**Grocery Buds** is a **shopping list** built with **html, css , js, localstorage**. This project demonstrates my ability to **Each grocery item has a unique ID and is stored in localStorage for persistence and also it have seperate file for logic, it's more about react app in vanila js.**. You can check out the netlify [here] (https://grocerybudsfromavinash.netlify.app/).
 
 ### [Todo web app](project_2_link)
 
