@@ -23,7 +23,10 @@ I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tack
 
 
 
-## Featured Projects 💻 2 projects done! 
+## Featured Projects 💻  projects done!
+
+### Shopping Card (https://shopping-card-react-651140.netlify.app/)
+    Mimicing amazon shopping card. Have crud feature, give a try! 
 
 ### [Grocery Buds](project_1_link)
 
