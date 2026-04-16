@@ -6,9 +6,9 @@
 
 ## About Me 🚀
 
-I'm a passionate Frontend alien  with experience in HTML, CSS, JS, . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Frontend alien  with experience in HTML, CSS, JS, React . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **React, CSS**
+- 🌱 Currently learning: **React authorization, Typescript**
 - 🔭 Working on: **will be updated soon!**
 - 🌍 Languages: **English, Nepali**
 - 📫 How to reach me: **github43.avi@gmail.com**
